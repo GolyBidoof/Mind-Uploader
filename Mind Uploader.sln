@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MindUploader", "MindUploader\MindUploader.vcxproj", "{B2F1F624-F951-4EF0-B288-7E45DA119C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Debug|x64.ActiveCfg = Debug|x64
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Debug|x64.Build.0 = Debug|x64
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Debug|x86.Build.0 = Debug|Win32
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Release|x64.ActiveCfg = Release|x64
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Release|x64.Build.0 = Release|x64
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Release|x86.ActiveCfg = Release|Win32
+		{B2F1F624-F951-4EF0-B288-7E45DA119C0F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90338764-BC52-4D0F-A67E-AC6FC57215C5}
+	EndGlobalSection
+EndGlobal
